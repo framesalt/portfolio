@@ -1,2 +1,2 @@
 # portfolio
-reposnsive svg portfolio
+responsive svg portfolio
